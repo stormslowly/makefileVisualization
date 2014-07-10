@@ -1,0 +1,862 @@
+ Considering target file `.intermediate/src_fps/tnsdldef.d'.
+  File `.intermediate/src_fps/tnsdldef.d' does not exist.
+  Finished prerequisites of target file `.intermediate/src_fps/tnsdldef.d'.
+ Considering target file `.intermediate/tst/line_buff/process_test.d'.
+  Finished prerequisites of target file `.intermediate/tst/line_buff/process_test.d'.
+ Considering target file `.intermediate/tst/test_module_procedures.d'.
+  Finished prerequisites of target file `.intermediate/tst/test_module_procedures.d'.
+ Considering target file `.intermediate/tst/main_tests.d'.
+  Finished prerequisites of target file `.intermediate/tst/main_tests.d'.
+ Considering target file `.intermediate/tst/stubs.d'.
+  Finished prerequisites of target file `.intermediate/tst/stubs.d'.
+ Considering target file `.intermediate/tst/helper_master/x.d'.
+  Finished prerequisites of target file `.intermediate/tst/helper_master/x.d'.
+ Considering target file `.intermediate/tst/testbasic/wrapper.d'.
+  Finished prerequisites of target file `.intermediate/tst/testbasic/wrapper.d'.
+ Considering target file `.intermediate/tst/test_subautomaton/wrapper.d'.
+  Finished prerequisites of target file `.intermediate/tst/test_subautomaton/wrapper.d'.
+ Considering target file `.intermediate/tst/test_process_timer/wrapper.d'.
+  Finished prerequisites of target file `.intermediate/tst/test_process_timer/wrapper.d'.
+ Considering target file `.intermediate/tst/test_process_statemachine/wrapper.d'.
+  Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/wrapper.d'.
+ Considering target file `.intermediate/tst/test_process_procedures/wrapper.d'.
+  Finished prerequisites of target file `.intermediate/tst/test_process_procedures/wrapper.d'.
+ Considering target file `.intermediate/tst/test_empty_test_module/wrapper.d'.
+  Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/wrapper.d'.
+ Considering target file `.intermediate/src_fps/_Fptemasset_master_global.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Fptemasset_master_global.d'.
+ Considering target file `.intermediate/src_fps/_Pptemas.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Pptemas.d'.
+ Considering target file `.intermediate/src_fps/_Asubautformatter.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Asubautformatter.d'.
+ Considering target file `.intermediate/src_fps/_Asubautreader.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Asubautreader.d'.
+ Considering target file `.intermediate/src_fps/_Psubaut.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Psubaut.d'.
+ Considering target file `.intermediate/src_fps/_Fptehanunused_procedure.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Fptehanunused_procedure.d'.
+ Considering target file `.intermediate/src_fps/_Pptehan.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Pptehan.d'.
+ Considering target file `.intermediate/src_fps/_Mptemod.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/_Mptemod.d'.
+ Considering target file `.intermediate/src_fps/line_buff/process.d'.
+  Finished prerequisites of target file `.intermediate/src_fps/line_buff/process.d'.
+ Considering target file `.intermediate/src/prb.dep'.
+   Considering target file `.intermediate/src/prb.mod'.
+     Considering target file `src/prb.sdl'.
+      Finished prerequisites of target file `src/prb.sdl'.
+     Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/block_structure.sst'.
+      Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/block_structure.sst'.
+     Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/process_for_testing.sdt'.
+      Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/process_for_testing.sdt'.
+     Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/module.spd'.
+      Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/module.spd'.
+     Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/module.sdl'.
+      Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/module.sdl'.
+     Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/hand_process.sdl'.
+      Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/hand_process.sdl'.
+     Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/subautomata_process.sdl'.
+      Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/subautomata_process.sdl'.
+     Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/master_process.sdl'.
+      Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/test_process_functionality/src/master_process.sdl'.
+     Considering target file `.intermediate/src/prb.scc'.
+       Considering target file `.icl/prb.scc'.
+         Considering target file `src/prb.in3'.
+          Finished prerequisites of target file `src/prb.in3'.
+         Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/lib/libtnsdlunit.a'.
+          Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/lib/libtnsdlunit.a'.
+        Finished prerequisites of target file `.icl/prb.scc'.
+      Finished prerequisites of target file `.intermediate/src/prb.scc'.
+     Considering target file `src/process_for_testing.cdt'.
+       Considering target file `src/process_for_testing.sdt'.
+        Finished prerequisites of target file `src/process_for_testing.sdt'.
+      Finished prerequisites of target file `src/process_for_testing.cdt'.
+     Considering target file `src/process_for_testing.cpd'.
+       Considering target file `src/process_for_testing.spd'.
+        Finished prerequisites of target file `src/process_for_testing.spd'.
+      Finished prerequisites of target file `src/process_for_testing.cpd'.
+     Considering target file `src/module.cpd'.
+       Considering target file `src/module.spd'.
+        Finished prerequisites of target file `src/module.spd'.
+      Finished prerequisites of target file `src/module.cpd'.
+    Finished prerequisites of target file `.intermediate/src/prb.mod'.
+   Pruning file `.intermediate/src/prb.scc'.
+  Finished prerequisites of target file `.intermediate/src/prb.dep'.
+ Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/config.mk'.
+  Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/config.mk'.
+ Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tu_helper.mk'.
+  Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tu_helper.mk'.
+ Considering target file `Makefile'.
+  Finished prerequisites of target file `Makefile'.
+Considering target file `all'.
+ File `all' does not exist.
+  Considering target file `dogfooding'.
+    Considering target file `.intermediate/tst/test_empty_test_module/wrapper.o'.
+      Considering target file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+        Considering target file `tst/test_empty_test_module.sdl'.
+         Finished prerequisites of target file `tst/test_empty_test_module.sdl'.
+        Considering target file `.intermediate/src/tu_timer_signals.sdt'.
+          Pruning file `.intermediate/src/prb.mod'.
+          Considering target file `.intermediate/src/'.
+           Finished prerequisites of target file `.intermediate/src/'.
+         Finished prerequisites of target file `.intermediate/src/tu_timer_signals.sdt'.
+        Considering target file `.intermediate/src/tnsdl_linux_workarounds.h'.
+          Pruning file `.intermediate/src/prb.mod'.
+         Finished prerequisites of target file `.intermediate/src/tnsdl_linux_workarounds.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Considering target file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+        Considering target file `tst/test_process_procedures.sdl'.
+         Finished prerequisites of target file `tst/test_process_procedures.sdl'.
+        Pruning file `.intermediate/src/tu_timer_signals.sdt'.
+        Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Considering target file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+        Considering target file `tst/test_process_statemachine.sdl'.
+         Finished prerequisites of target file `tst/test_process_statemachine.sdl'.
+        Pruning file `.intermediate/src/tu_timer_signals.sdt'.
+        Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Considering target file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+        Considering target file `tst/test_process_timer.sdl'.
+         Finished prerequisites of target file `tst/test_process_timer.sdl'.
+        Pruning file `.intermediate/src/tu_timer_signals.sdt'.
+        Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Considering target file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+        Considering target file `tst/test_subautomaton.sdl'.
+         Finished prerequisites of target file `tst/test_subautomaton.sdl'.
+        Pruning file `.intermediate/src/tu_timer_signals.sdt'.
+        Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Considering target file `.intermediate/tst/testbasic/wrapper.cpp'.
+        Considering target file `tst/testbasic.sdl'.
+         Finished prerequisites of target file `tst/testbasic.sdl'.
+        Pruning file `.intermediate/src/tu_timer_signals.sdt'.
+        Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+       Finished prerequisites of target file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `.intermediate/tst/test_empty_test_module/_Mtest_empty_group.c'.
+       Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/_Mtest_empty_group.c'.
+      Considering target file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+       Finished prerequisites of target file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+      Considering target file `.intermediate/tst/test_empty_test_module/_0tnsdlunit.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/_0tnsdlunit.h'.
+      Considering target file `.intermediate/tst/test_empty_test_module/_1tnsdlunitsb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/_1tnsdlunitsb.h'.
+      Considering target file `.intermediate/tst/test_empty_test_module/_2tnsdlunitseb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/_2tnsdlunitseb.h'.
+      Considering target file `.intermediate/tst/test_empty_test_module/_3testcase.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/_3testcase.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Considering target file `.intermediate/src/_Fptehanunused_procedure.h'.
+       Finished prerequisites of target file `.intermediate/src/_Fptehanunused_procedure.h'.
+     Finished prerequisites of target file `.intermediate/tst/test_empty_test_module/wrapper.o'.
+    Considering target file `.intermediate/tst/test_process_procedures/wrapper.o'.
+      Pruning file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Pruning file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `.intermediate/tst/test_process_procedures/_Mtest_process_procedures.c'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_procedures/_Mtest_process_procedures.c'.
+      Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+      Considering target file `.intermediate/tst/test_process_procedures/_0tnsdlunit.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_procedures/_0tnsdlunit.h'.
+      Considering target file `.intermediate/tst/test_process_procedures/_1tnsdlunitsb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_procedures/_1tnsdlunitsb.h'.
+      Considering target file `.intermediate/tst/test_process_procedures/_2tnsdlunitseb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_procedures/_2tnsdlunitseb.h'.
+      Considering target file `.intermediate/tst/test_process_procedures/_3testcase.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_procedures/_3testcase.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `.intermediate/src/_Fptehanunused_procedure.h'.
+     Finished prerequisites of target file `.intermediate/tst/test_process_procedures/wrapper.o'.
+    Considering target file `.intermediate/tst/test_process_statemachine/wrapper.o'.
+      Pruning file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Pruning file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `.intermediate/tst/test_process_statemachine/_Mtest_process_statemachine.c'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/_Mtest_process_statemachine.c'.
+      Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+      Considering target file `.intermediate/tst/test_process_statemachine/_0tnsdlunit.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/_0tnsdlunit.h'.
+      Considering target file `.intermediate/tst/test_process_statemachine/_1tnsdlunitsb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/_1tnsdlunitsb.h'.
+      Considering target file `.intermediate/tst/test_process_statemachine/_2tnsdlunitseb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/_2tnsdlunitseb.h'.
+      Considering target file `.intermediate/tst/test_process_statemachine/_3testcase.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/_3testcase.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `.intermediate/src/_Fptehanunused_procedure.h'.
+     Finished prerequisites of target file `.intermediate/tst/test_process_statemachine/wrapper.o'.
+    Considering target file `.intermediate/tst/test_process_timer/wrapper.o'.
+      Pruning file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Pruning file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `.intermediate/tst/test_process_timer/_Mtest_process_timer.c'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_timer/_Mtest_process_timer.c'.
+      Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+      Considering target file `.intermediate/tst/test_process_timer/_0tnsdlunit.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_timer/_0tnsdlunit.h'.
+      Considering target file `.intermediate/tst/test_process_timer/_1tnsdlunitsb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_timer/_1tnsdlunitsb.h'.
+      Considering target file `.intermediate/tst/test_process_timer/_2tnsdlunitseb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_timer/_2tnsdlunitseb.h'.
+      Considering target file `.intermediate/tst/test_process_timer/_3testcase.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_process_timer/_3testcase.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `.intermediate/src/_Fptehanunused_procedure.h'.
+     Finished prerequisites of target file `.intermediate/tst/test_process_timer/wrapper.o'.
+    Considering target file `.intermediate/tst/test_subautomaton/wrapper.o'.
+      Pruning file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Pruning file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `.intermediate/tst/test_subautomaton/_Mtest_subautomaton.c'.
+       Finished prerequisites of target file `.intermediate/tst/test_subautomaton/_Mtest_subautomaton.c'.
+      Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+      Considering target file `.intermediate/tst/test_subautomaton/_0tnsdlunit.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_subautomaton/_0tnsdlunit.h'.
+      Considering target file `.intermediate/tst/test_subautomaton/_1tnsdlunitsb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_subautomaton/_1tnsdlunitsb.h'.
+      Considering target file `.intermediate/tst/test_subautomaton/_2tnsdlunitseb.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_subautomaton/_2tnsdlunitseb.h'.
+      Considering target file `.intermediate/tst/test_subautomaton/_3testcase.h'.
+       Finished prerequisites of target file `.intermediate/tst/test_subautomaton/_3testcase.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `.intermediate/src/_Fptehanunused_procedure.h'.
+     Finished prerequisites of target file `.intermediate/tst/test_subautomaton/wrapper.o'.
+    Considering target file `.intermediate/tst/testbasic/wrapper.o'.
+      Pruning file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_empty_test_module/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_procedures/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_statemachine/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_process_timer/wrapper.cpp'.
+      Pruning file `.intermediate/tst/test_subautomaton/wrapper.cpp'.
+      Pruning file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `.intermediate/tst/testbasic/wrapper.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `.intermediate/tst/testbasic/_Mtestbasic.c'.
+       Finished prerequisites of target file `.intermediate/tst/testbasic/_Mtestbasic.c'.
+      Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+      Considering target file `.intermediate/tst/testbasic/_0tnsdlunit.h'.
+       Finished prerequisites of target file `.intermediate/tst/testbasic/_0tnsdlunit.h'.
+      Considering target file `.intermediate/tst/testbasic/_1tnsdlunitsb.h'.
+       Finished prerequisites of target file `.intermediate/tst/testbasic/_1tnsdlunitsb.h'.
+      Considering target file `.intermediate/tst/testbasic/_2tnsdlunitseb.h'.
+       Finished prerequisites of target file `.intermediate/tst/testbasic/_2tnsdlunitseb.h'.
+      Considering target file `.intermediate/tst/testbasic/_3testcase.h'.
+       Finished prerequisites of target file `.intermediate/tst/testbasic/_3testcase.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `.intermediate/src/_Fptehanunused_procedure.h'.
+     Finished prerequisites of target file `.intermediate/tst/testbasic/wrapper.o'.
+    Considering target file `.intermediate/tst/helper_master/x.o'.
+      Considering target file `tst/helper_master.sdl'.
+       Finished prerequisites of target file `tst/helper_master.sdl'.
+      Considering target file `.intermediate/tst/helper_master/_Mhelper_master.c'.
+       Finished prerequisites of target file `.intermediate/tst/helper_master/_Mhelper_master.c'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+      Considering target file `.intermediate/tst/helper_master/_0tnsdlunit.h'.
+       Finished prerequisites of target file `.intermediate/tst/helper_master/_0tnsdlunit.h'.
+      Considering target file `.intermediate/tst/helper_master/_1tnsdlunitsb.h'.
+       Finished prerequisites of target file `.intermediate/tst/helper_master/_1tnsdlunitsb.h'.
+      Considering target file `.intermediate/tst/helper_master/_2tnsdlunitseb.h'.
+       Finished prerequisites of target file `.intermediate/tst/helper_master/_2tnsdlunitseb.h'.
+      Considering target file `.intermediate/tst/helper_master/_3testhelper.h'.
+       Finished prerequisites of target file `.intermediate/tst/helper_master/_3testhelper.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/include/tnsdlunit.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/long_longs_equal.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxstub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clustub_checks.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenstub_checks.h'.
+     Finished prerequisites of target file `.intermediate/tst/helper_master/x.o'.
+    Considering target file `.intermediate/tst/stubs.o'.
+      Considering target file `tst/stubs.c'.
+       Finished prerequisites of target file `tst/stubs.c'.
+      Considering target file `.intermediate/src/prb.ccc'.
+        Pruning file `.intermediate/src/prb.scc'.
+       Finished prerequisites of target file `.intermediate/src/prb.ccc'.
+      Pruning file `tst/stubs.c'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Considering target file `src/prb.cin'.
+       Finished prerequisites of target file `src/prb.cin'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/ipal_product_include/dxsstdef.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/ipal_product_include/dxsstdef.h'.
+      Pruning file `.intermediate/src/prb.ccc'.
+      Pruning file `src/process_for_testing.cdt'.
+      Pruning file `src/process_for_testing.cpd'.
+      Considering target file `.intermediate/tst'.
+       Finished prerequisites of target file `.intermediate/tst'.
+      Considering target file `.intermediate/tst/line_buff'.
+       Finished prerequisites of target file `.intermediate/tst/line_buff'.
+      Pruning file `.intermediate/src/prb.ccc'.
+     Finished prerequisites of target file `.intermediate/tst/stubs.o'.
+    Considering target file `.intermediate/tst/main_tests.o'.
+      Considering target file `tst/main_tests.cpp'.
+       Finished prerequisites of target file `tst/main_tests.cpp'.
+      Pruning file `.intermediate/src/prb.ccc'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `tst/main_tests.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/CommandLineTestRunner.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/CommandLineTestRunner.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestOutput.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestOutput.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/CommandLineArguments.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/CommandLineArguments.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFilter.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFilter.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestRegistry.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestRegistry.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clugenplugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/clugenplugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenplugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/libgenplugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxplugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dmxplugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxutilsplugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxutilsplugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MemoryReporterPlugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MemoryReporterPlugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MemoryReportAllocator.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MemoryReportAllocator.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestMemoryAllocator.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestMemoryAllocator.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockSupportPlugin.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockSupportPlugin.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockNamedValue.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockNamedValue.h'.
+      Pruning file `.intermediate/tst'.
+      Pruning file `.intermediate/tst/line_buff'.
+      Pruning file `.intermediate/src/prb.ccc'.
+     Finished prerequisites of target file `.intermediate/tst/main_tests.o'.
+    Considering target file `.intermediate/tst/test_module_procedures.o'.
+      Considering target file `tst/test_module_procedures.cpp'.
+       Finished prerequisites of target file `tst/test_module_procedures.cpp'.
+      Pruning file `.intermediate/src/prb.ccc'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `tst/test_module_procedures.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockSupport.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockSupport.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockFailure.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockFunctionCall.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockFunctionCall.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockNamedValue.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockExpectedFunctionCall.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockExpectedFunctionCall.h'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockExpectedFunctionsList.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockExpectedFunctionsList.h'.
+      Pruning file `src/prb.cin'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/ipal_product_include/dxsstdef.h'.
+      Pruning file `.intermediate/src/prb.ccc'.
+      Pruning file `src/process_for_testing.cdt'.
+      Pruning file `src/process_for_testing.cpd'.
+      Pruning file `src/module.cpd'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dynamic_stub.h'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dynamic_stub.h'.
+      Pruning file `.intermediate/tst'.
+      Pruning file `.intermediate/tst/line_buff'.
+      Pruning file `.intermediate/src/prb.ccc'.
+     Finished prerequisites of target file `.intermediate/tst/test_module_procedures.o'.
+    Considering target file `.intermediate/tst/line_buff/process_test.o'.
+      Considering target file `tst/line_buff/process_test.cpp'.
+       Finished prerequisites of target file `tst/line_buff/process_test.cpp'.
+      Pruning file `.intermediate/src/prb.ccc'.
+      Pruning file `.intermediate/src/tnsdl_linux_workarounds.h'.
+      Pruning file `tst/line_buff/process_test.cpp'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestnewmacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/Utest.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/SimpleString.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/UtestMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestResult.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestHarness_c.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockSupport.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/TestFailure.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockFunctionCall.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockNamedValue.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockExpectedFunctionCall.h'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTestExt/MockExpectedFunctionsList.h'.
+      Pruning file `src/prb.cin'.
+      Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/ipal_product_include/dxsstdef.h'.
+      Pruning file `.intermediate/src/prb.ccc'.
+      Pruning file `src/process_for_testing.cdt'.
+      Pruning file `src/process_for_testing.cpd'.
+      Pruning file `src/module.cpd'.
+      Pruning file `.intermediate/tst'.
+      Pruning file `.intermediate/tst/line_buff'.
+      Pruning file `.intermediate/src/prb.ccc'.
+     Finished prerequisites of target file `.intermediate/tst/line_buff/process_test.o'.
+    Considering target file `.intermediate/prb.a'.
+      Considering target file `.intermediate/src_fps/_Mptemod.o'.
+        Considering target file `.intermediate/src_fps/_Mptemod.c'.
+          Considering target file `.intermediate/src/_Mptemod.c'.
+           Finished prerequisites of target file `.intermediate/src/_Mptemod.c'.
+          Considering target file `.intermediate/src_fps'.
+           Finished prerequisites of target file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Mptemod.c'.
+        Pruning file `.intermediate/src_fps/_Mptemod.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Considering target file `.intermediate/src/_0idioti.h'.
+         Finished prerequisites of target file `.intermediate/src/_0idioti.h'.
+        Considering target file `.intermediate/src/_1foobar.h'.
+         Finished prerequisites of target file `.intermediate/src/_1foobar.h'.
+        Considering target file `.intermediate/src/_2unavai.h'.
+         Finished prerequisites of target file `.intermediate/src/_2unavai.h'.
+        Considering target file `.intermediate/src/_3ptesti.h'.
+         Finished prerequisites of target file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Considering target file `tst/ut_fixtures.h'.
+         Finished prerequisites of target file `tst/ut_fixtures.h'.
+        Pruning file `.intermediate/src_fps'.
+        Considering target file `.intermediate/src_fps/line_buff'.
+         Finished prerequisites of target file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Mptemod.o'.
+      Considering target file `.intermediate/src_fps/_Pptehan.o'.
+        Considering target file `.intermediate/src_fps/_Pptehan.c'.
+          Considering target file `.intermediate/src/_Pptehan.c'.
+           Finished prerequisites of target file `.intermediate/src/_Pptehan.c'.
+          Pruning file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Pptehan.c'.
+        Pruning file `.intermediate/src_fps/_Pptehan.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Pruning file `.intermediate/src/_0idioti.h'.
+        Pruning file `.intermediate/src/_1foobar.h'.
+        Pruning file `.intermediate/src/_2unavai.h'.
+        Pruning file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Pruning file `tst/ut_fixtures.h'.
+        Pruning file `.intermediate/src/_Fptehanunused_procedure.h'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Pptehan.o'.
+      Considering target file `.intermediate/src_fps/_Fptehanunused_procedure.o'.
+        Considering target file `.intermediate/src_fps/_Fptehanunused_procedure.c'.
+          Considering target file `.intermediate/src/_Fptehanunused_procedure.c'.
+           Finished prerequisites of target file `.intermediate/src/_Fptehanunused_procedure.c'.
+          Pruning file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Fptehanunused_procedure.c'.
+        Pruning file `.intermediate/src_fps/_Fptehanunused_procedure.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Considering target file `.intermediate/src/_Pptehan.h'.
+         Finished prerequisites of target file `.intermediate/src/_Pptehan.h'.
+        Pruning file `.intermediate/src/_0idioti.h'.
+        Pruning file `.intermediate/src/_1foobar.h'.
+        Pruning file `.intermediate/src/_2unavai.h'.
+        Pruning file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Pruning file `tst/ut_fixtures.h'.
+        Pruning file `.intermediate/src/_Fptehanunused_procedure.h'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Fptehanunused_procedure.o'.
+      Considering target file `.intermediate/src_fps/_Psubaut.o'.
+        Considering target file `.intermediate/src_fps/_Psubaut.c'.
+          Considering target file `.intermediate/src/_Psubaut.c'.
+           Finished prerequisites of target file `.intermediate/src/_Psubaut.c'.
+          Pruning file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Psubaut.c'.
+        Pruning file `.intermediate/src_fps/_Psubaut.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Pruning file `.intermediate/src/_0idioti.h'.
+        Pruning file `.intermediate/src/_1foobar.h'.
+        Pruning file `.intermediate/src/_2unavai.h'.
+        Pruning file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Pruning file `tst/ut_fixtures.h'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Psubaut.o'.
+      Considering target file `.intermediate/src_fps/_Asubautreader.o'.
+        Considering target file `.intermediate/src_fps/_Asubautreader.c'.
+          Considering target file `.intermediate/src/_Asubautreader.c'.
+           Finished prerequisites of target file `.intermediate/src/_Asubautreader.c'.
+          Pruning file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Asubautreader.c'.
+        Pruning file `.intermediate/src_fps/_Asubautreader.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Considering target file `.intermediate/src/_Psubaut.h'.
+         Finished prerequisites of target file `.intermediate/src/_Psubaut.h'.
+        Pruning file `.intermediate/src/_0idioti.h'.
+        Pruning file `.intermediate/src/_1foobar.h'.
+        Pruning file `.intermediate/src/_2unavai.h'.
+        Pruning file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Pruning file `tst/ut_fixtures.h'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Asubautreader.o'.
+      Considering target file `.intermediate/src_fps/_Asubautformatter.o'.
+        Considering target file `.intermediate/src_fps/_Asubautformatter.c'.
+          Considering target file `.intermediate/src/_Asubautformatter.c'.
+           Finished prerequisites of target file `.intermediate/src/_Asubautformatter.c'.
+          Pruning file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Asubautformatter.c'.
+        Pruning file `.intermediate/src_fps/_Asubautformatter.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Pruning file `.intermediate/src/_Psubaut.h'.
+        Pruning file `.intermediate/src/_0idioti.h'.
+        Pruning file `.intermediate/src/_1foobar.h'.
+        Pruning file `.intermediate/src/_2unavai.h'.
+        Pruning file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Pruning file `tst/ut_fixtures.h'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Asubautformatter.o'.
+      Considering target file `.intermediate/src_fps/_Pptemas.o'.
+        Considering target file `.intermediate/src_fps/_Pptemas.c'.
+          Considering target file `.intermediate/src/_Pptemas.c'.
+           Finished prerequisites of target file `.intermediate/src/_Pptemas.c'.
+          Pruning file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Pptemas.c'.
+        Pruning file `.intermediate/src_fps/_Pptemas.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Pruning file `.intermediate/src/_0idioti.h'.
+        Pruning file `.intermediate/src/_1foobar.h'.
+        Pruning file `.intermediate/src/_2unavai.h'.
+        Pruning file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Pruning file `tst/ut_fixtures.h'.
+        Considering target file `.intermediate/src/_Fptemasset_master_global.h'.
+         Finished prerequisites of target file `.intermediate/src/_Fptemasset_master_global.h'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Pptemas.o'.
+      Considering target file `.intermediate/src_fps/_Fptemasset_master_global.o'.
+        Considering target file `.intermediate/src_fps/_Fptemasset_master_global.c'.
+          Considering target file `.intermediate/src/_Fptemasset_master_global.c'.
+           Finished prerequisites of target file `.intermediate/src/_Fptemasset_master_global.c'.
+          Pruning file `.intermediate/src_fps'.
+         Finished prerequisites of target file `.intermediate/src_fps/_Fptemasset_master_global.c'.
+        Pruning file `.intermediate/src_fps/_Fptemasset_master_global.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `/McBED/sacks/cbenv/14_6_0/public/dty/c_form/dxsapizz.cli'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.h'.
+        Considering target file `.intermediate/src/_Pptemas.h'.
+         Finished prerequisites of target file `.intermediate/src/_Pptemas.h'.
+        Pruning file `.intermediate/src/_0idioti.h'.
+        Pruning file `.intermediate/src/_1foobar.h'.
+        Pruning file `.intermediate/src/_2unavai.h'.
+        Pruning file `.intermediate/src/_3ptesti.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils_macros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/test_interface.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dx_utils.h'.
+        Pruning file `tst/ut_fixtures.h'.
+        Pruning file `.intermediate/src/_Fptemasset_master_global.h'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/_Fptemasset_master_global.o'.
+      Considering target file `.intermediate/src_fps/line_buff/process.o'.
+        Considering target file `src/line_buff/process.c'.
+         Finished prerequisites of target file `src/line_buff/process.c'.
+        Pruning file `.intermediate/src/prb.ccc'.
+        Pruning file `src/line_buff/process.c'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/include/dxunittestmallocmacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/cpputest/include/CppUTest/StandardCLibrary.h'.
+        Pruning file `src/prb.cin'.
+        Pruning file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/dx_unittest/ipal_product_include/dxsstdef.h'.
+        Pruning file `.intermediate/src/prb.ccc'.
+        Pruning file `src/process_for_testing.cdt'.
+        Pruning file `src/process_for_testing.cpd'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+        Pruning file `.intermediate/src_fps'.
+        Pruning file `.intermediate/src_fps/line_buff'.
+        Pruning file `.intermediate/src/prb.ccc'.
+       Finished prerequisites of target file `.intermediate/src_fps/line_buff/process.o'.
+     Finished prerequisites of target file `.intermediate/prb.a'.
+    Considering target file `.intermediate/src_fps/tnsdldef.o'.
+      Considering target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.c'.
+       Finished prerequisites of target file `/home/pshu/TNUNIT/TNSDLUNIT_2_4_4/tnsdl_tools/ntcaux/tnsdlzj/tnsdldef.c'.
+     Finished prerequisites of target file `.intermediate/src_fps/tnsdldef.o'.
+    Pruning file `src/process_for_testing.cdt'.
+    Pruning file `src/process_for_testing.cpd'.
+    Pruning file `src/module.cpd'.
+   Finished prerequisites of target file `dogfooding'.
+ Finished prerequisites of target file `all'.

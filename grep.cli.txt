@@ -1,0 +1,2 @@
+grep.cli.txt
+grep -E  "\s*File|\s*Finished prerequisites of target file|\s*Pruning file|\s*Considering target file" make.log  >clean.make.log
