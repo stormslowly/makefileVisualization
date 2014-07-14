@@ -1,7 +1,8 @@
 'use strict';
 /* global d3,$ */
 
-var treeJSON = d3.json('maked.json', function(error, treeData) {
+
+function drawTree(error, treeData) {
 
   // Calculate total nodes, max label length
   var totalNodes = 0;
@@ -14,11 +15,11 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
   var panBoundary = 20; // Within 20px from edges will pan when dragging.
   // Misc. variables
   var i = 0;
-  var duration = 750;
+  var duration = 500;
   var root;
 
   // size of the diagram
-  var viewerWidth = $(document).width();
+  var viewerWidth = $(document).width() * 0.65;
   var viewerHeight = $(document).height();
 
   var tree = d3.layout.tree()
@@ -35,7 +36,9 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
 
   function visit(parent, visitFn, childrenFn) {
 
-    if (!parent) {return;}
+    if (!parent) {
+      return;
+    }
     visitFn(parent);
     var children = childrenFn(parent);
     if (children) {
@@ -94,7 +97,7 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
   // Define the zoom function for the zoomable tree
 
   function zoom() {
-    svgGroup.attr('transform','translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')');
+    svgGroup.attr('transform', 'translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')');
   }
 
   // define the zoomListener which calls the zoom function on the 'zoom' event constrained within the scaleExtents
@@ -107,9 +110,9 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
     d3.select(domNode).attr('class', 'node activeDrag');
 
     svgGroup.selectAll('g.node').sort(function(a, b) { // select the parent and sort the path's
-      if (a.id !== draggingNode.id){
+      if (a.id !== draggingNode.id) {
         return 1; // a is not the hovered element, send 'a' to the back
-      }else{
+      } else {
         return -1;
       } // a is the hovered element, bring 'a' to the front
     });
@@ -146,11 +149,6 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
   }
 
   // define the baseSvg, attaching a class for styling and the zoomListener
-  var baseSvg = d3.select('#tree-container').append('svg')
-    .attr('width', viewerWidth)
-    .attr('height', viewerHeight)
-    .attr('class', 'overlay')
-    .call(zoomListener);
 
 
   // Define the drag listeners for drag/drop behaviour of nodes.
@@ -345,17 +343,20 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
     // This prevents the layout looking squashed when new nodes are made visible or looking sparse when nodes are removed
     // This makes the layout more consistent.
     var levelWidth = [1];
-    var childCount = function(level, n) {
+    var childCount = function(level, node) {
 
-      if (n.children && n.children.length > 0) {
-        if (levelWidth.length <= level + 1) {levelWidth.push(0);}
+      if (node.children && node.children.length > 0) {
+        if (levelWidth.length <= level + 1) {
+          levelWidth.push(0);
+        }
 
-        levelWidth[level + 1] += n.children.length;
-        n.children.forEach(function(d) {
+        levelWidth[level + 1] += node.children.length;
+        node.children.forEach(function(d) {
           childCount(level + 1, d);
         });
       }
     };
+
     childCount(0, root);
     var newHeight = d3.max(levelWidth) * 25; // 25 pixels per line
     tree = tree.size([newHeight, viewerWidth]);
@@ -377,6 +378,7 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
       .data(nodes, function(d) {
         return d.id || (d.id = ++i);
       });
+
 
     // Enter any new nodes at the parent's previous position.
     var nodeEnter = node.enter().append('g')
@@ -420,6 +422,24 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
       })
       .on('mouseout', function(node) {
         outCircle(node);
+      });
+    var div = d3.select('body').append('div')
+      .attr('class', 'tooltip')
+      .style('opacity', 0);
+
+    node
+      .on('mouseover', function(d) {
+        div.transition()
+          .duration(200)
+          .style('opacity', 0.9);
+        div.html(d.fullname)
+          .style('left', (d3.event.pageX) + 'px')
+          .style('top', (d3.event.pageY) + 'px');
+      })
+      .on('mouseout', function(d) {
+        div.transition()
+          .duration(500)
+          .style('opacity', 0);
       });
 
     // Update the text to reflect whether node has children or not.
@@ -514,6 +534,13 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
   }
 
   // Append a group which holds all nodes and which the zoom Listener can act upon.
+  d3.select('#tree-container svg').remove();
+
+  var baseSvg = d3.select('#tree-container').append('svg')
+    .attr('width', viewerWidth)
+    .attr('height', viewerHeight)
+    .attr('class', 'overlay')
+    .call(zoomListener);
   var svgGroup = baseSvg.append('g');
 
   // Define the root
@@ -524,4 +551,4 @@ var treeJSON = d3.json('maked.json', function(error, treeData) {
   // Layout the tree initially and center on the root node.
   update(root);
   centerNode(root);
-});
+}

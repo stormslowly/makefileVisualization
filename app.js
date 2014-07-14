@@ -4,19 +4,6 @@
 var fs = require('fs');
 var path = require('path');
 
-var indentAt = function(line) {
-
-  var indent = 0;
-  for (var i = 0, l = line.length; i < l; i++) {
-    if (line[i] !== ' ') {
-      break;
-    }
-    indent++;
-  }
-
-  return indent;
-};
-
 var getFullFileName = function(line) {
   var start, end;
   start = line.indexOf('`');
@@ -46,9 +33,6 @@ fs.readFile('clean.make.log', 'utf-8', function(err, content) {
     var line = lines[i];
     var fullName = getFullFileName(line);
     var baseName = path.basename(fullName);
-    var indent = indentAt(line);
-
-    console.log(indentAt(line), baseName, fullName);
 
     if (startWith(line, 'Considering target file')) {
 
@@ -72,15 +56,8 @@ fs.readFile('clean.make.log', 'utf-8', function(err, content) {
   }
 
   fs.writeFile('dep.json',JSON.stringify(deps),'utf-8',function(e){
-    if(e) throw e;
+    if(e) {throw e;}
     console.log('file saved');
   });
 
-
-
-
-
-
-  // console.log(JSON.stringify(deps));
-  console.log(deps.dogfooding);
 });
