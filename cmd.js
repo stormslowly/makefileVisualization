@@ -1,11 +1,10 @@
 'use strict';
-
 var path = require('path');
+var fs = require('fs');
 var spawn = require('child_process').spawn;
 var LineStream = require('lstream');
 var through = require('through');
-
-
+var trumpet = require('trumpet');
 
 var starts = ['File',
   'Finished prerequisites of target file',
@@ -29,27 +28,20 @@ var startWith = function(line, t) {
 };
 
 var filter = through(function write(data) {
-
   var str = data.toString();
-
   for (var i = 0, l = starts.length; i < l; i++) {
     if (startWith(str, starts[i])) {
-
       this.queue(str + '\n');
       return;
     }
   }
 });
 
-
-var depBuilder = function() {
-
-  var deps = {};
+var depBuilder = function(deps) {
   var targetStack = [];
   var currentTarget = null;
 
   return through(function(data) {
-    // console.log(data);
     var line = data.toString();
     var fullName = getFullFileName(line);
     var baseName = path.basename(fullName);
@@ -65,7 +57,6 @@ var depBuilder = function() {
       };
       targetStack.push(currentTarget);
       currentTarget = fullName;
-
     } else if (startWith(line, 'Pruning file ')) {
       deps[currentTarget].child.push({
         fullName: fullName
@@ -75,16 +66,37 @@ var depBuilder = function() {
     }
   }, function() {
 
-    this.queue(JSON.stringify(deps));
-    console.log('end here!');
+    this.queue('window.__dep = ' + JSON.stringify(deps));
   });
 };
 
 var ls = spawn('cat', ['make.log']);
-
+var mydeps = {};
+var builder = depBuilder(mydeps);
 
 ls.stdout
   .pipe(new LineStream())
   .pipe(filter)
-  .pipe(depBuilder())
-  .pipe(process.stdout);
+  .pipe(builder);
+
+var depsInjector = through(function(){
+    this.queue('window.__dep = ' + JSON.stringify(mydeps));
+});
+
+ls.stdout.on('finish',function(){
+  var tr = trumpet();
+  var _deps = tr.select('#deps').createStream();
+
+  _deps.pipe(depsInjector).pipe(_deps);
+
+  var htmlp = fs.createReadStream('./_template.html');
+  var dest  = fs.createWriteStream(path.join(process.cwd(),'deps.html'));
+  htmlp.pipe(tr).pipe(dest);
+
+  htmlp.on('end',function(){
+    console.log('Check this out');
+    console.log('open deps.html in your browser');
+  });
+});
+
+

@@ -2,22 +2,16 @@
 /* global d3,drawTree*/
 
 
-var basename = function (path){
+var basename = function(path) {
   var parts = path.split('/');
-  return parts[parts.length-1];
+  return parts[parts.length - 1];
 };
 
 angular.module('vmake', [])
   .controller('main', function($scope) {
-    d3.json('../dep.json', function(err, json) {
-      // $scope.data = json;
-      $scope.$apply(function() {
-        $scope.data = json;
-        $scope.targets = Object.keys(json);
-      });
-      // console.log('i got data', $scope.data);
-    });
 
+    $scope.data = window.__dep;
+    $scope.targets = Object.keys(window.__dep);
 
     var dps = function(fullname, children) {
       var d = $scope.data[fullname];
@@ -26,7 +20,7 @@ angular.module('vmake', [])
         for (var i = 0, l = d.child.length; i < l; i++) {
           var c = d.child[i];
           var newNode = {
-            fullname :  c.fullName,
+            fullname: c.fullName,
             name: basename(c.fullName),
             children: []
           };
@@ -37,18 +31,16 @@ angular.module('vmake', [])
       return;
     };
 
-
-
-    $scope.click= function(target){
+    $scope.click = function(target) {
       console.log(arguments);
-      var tree ={
+      var tree = {
         name: basename(target),
         fullname: target,
         children: []
       };
       dps(target, tree.children);
       console.log(tree);
-      drawTree(null,tree);
+      drawTree(null, tree);
     };
 
 
@@ -67,20 +59,20 @@ angular.module('vmake', [])
 angular.module('vmake')
   .filter('byBasename', function() {
 
-    return function(fullnames, key,delimiter) {
+    return function(fullnames, key, delimiter) {
       var out = [];
-      var _delimiter = delimiter||'/';
+      var _delimiter = delimiter || '/';
       if (fullnames && key) {
         for (var i = 0, l = fullnames.length; i < l; i++) {
           var fullname = fullnames[i];
           var parts = fullname.split(_delimiter);
           var basename = parts[parts.length - 1];
-          if (basename.indexOf(key) >=0 ) {
+          if (basename.indexOf(key) >= 0) {
             out.push(fullname);
           }
         }
         return out;
       }
-      return fullnames||out;
+      return fullnames || out;
     };
   });
