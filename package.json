@@ -1,6 +1,6 @@
 {
   "name": "makev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "make file dependecy visualize ",
   "main": "lib/cmd.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stormslowly/makefileVisualization.git#v0.0.1"
+    "url": "https://github.com/stormslowly/makefileVisualization.git#v0.0.2"
   },
   "keywords": [
     "makefile",
@@ -21,6 +21,8 @@
     "graph",
     "visualization"
   ],
+  "homepage": "https://github.com/stormslowly/makefileVisualization",
+
   "dependencies": {
     "through": "~2.3.4",
     "trumpet": "~1.6.4"
