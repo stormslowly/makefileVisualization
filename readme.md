@@ -10,8 +10,8 @@ $ ls
 ...
 makefile
 ...
-$ mdv
-
+$ makev
+// check it out
 ```
 
 open the deps.html
@@ -26,4 +26,4 @@ open the deps.html
 the UI is so ugl, if you have any idea about the this tool. raise a issue or
 send me your pull request.
 
-thx a lot 
+thx a lot

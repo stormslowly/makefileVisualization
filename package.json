@@ -1,5 +1,5 @@
 {
-  "name": "makeDepGraph",
+  "name": "makev",
   "version": "0.0.1",
   "description": "make file dependecy visualize ",
   "main": "lib/cmd.js",
@@ -15,6 +15,12 @@
     "type": "git",
     "url": "https://github.com/stormslowly/makefileVisualization.git#v0.0.1"
   },
+  "keywords": [
+    "makefile",
+    "dependence",
+    "graph",
+    "visualization"
+  ],
   "dependencies": {
     "through": "~2.3.4",
     "trumpet": "~1.6.4"
