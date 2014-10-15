@@ -1,6 +1,6 @@
 {
   "name": "makeDepGraph",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "make file dependecy visualize ",
   "main": "lib/cmd.js",
   "scripts": {
@@ -11,6 +11,10 @@
   },
   "author": "pshu stormslowly@gmail.com",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/isaacs/npm.git"
+  },
   "dependencies": {
     "through": "~2.3.4",
     "trumpet": "~1.6.4"
