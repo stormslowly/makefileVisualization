@@ -2,11 +2,14 @@
   "name": "makeDepGraph",
   "version": "0.0.0",
   "description": "make file dependecy visualize ",
-  "main": "app.js",
+  "main": "lib/cmd.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "bin": {
+    "makev": "./lib/cmd.js"
+  },
+  "author": "pshu stormslowly@gmail.com",
   "license": "BSD-2-Clause",
   "dependencies": {
     "through": "~2.3.4",
