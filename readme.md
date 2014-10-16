@@ -1,6 +1,12 @@
 makefile dependency visulization
 ===
 
+## install
+
+```
+$ npm install makev -g
+```
+
 ## how to use
 
 in your folder which contains makefile.
