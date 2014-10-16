@@ -1,6 +1,6 @@
 {
   "name": "makev",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "make file dependecy visualize ",
   "main": "lib/cmd.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stormslowly/makefileVisualization.git#v0.0.2"
+    "url": "https://github.com/stormslowly/makefileVisualization.git#v0.0.3"
   },
   "keywords": [
     "makefile",
