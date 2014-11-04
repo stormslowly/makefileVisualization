@@ -25,7 +25,8 @@
   "dependencies": {
     "through": "~2.3.4",
     "trumpet": "~1.6.4",
-    "lstream": "0.0.4"
+    "lstream": "0.0.4",
+    "deep-eql": "0.1.3"
   },
   "devDependencies": {
     "gulp": "~3.8.6",
