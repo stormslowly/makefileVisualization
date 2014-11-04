@@ -1,7 +1,7 @@
 'use strict';
 var expect = require('chai').expect;
 
-var UArray = require('../lib/uarray.js');
+require('../lib/uarray.js');
 describe('Unique Array', function() {
 
   var ua = null;
@@ -32,7 +32,6 @@ describe('Unique Array', function() {
     expect(ua.upush({
       a: 2
     })).to.equal(2);
-
   });
 
 });
